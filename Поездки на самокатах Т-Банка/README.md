@@ -14,7 +14,7 @@
 
 **Используемые технологии:**
 
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="50"> <img src="https://it.lbl.gov/wp-content/uploads/sites/18/2022/10/pandas.png" width="70"> <img src="https://i0.wp.com/blogs.embarcadero.com/wp-content/uploads/2020/09/matplotlib.png?w=4541&ssl=1" width="80"> <img src="https://user-images.githubusercontent.com/67586773/106614255-1a400a80-6591-11eb-8e7a-cf272b26d8e5.png" width="50">
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="50"> <img src="https://it.lbl.gov/wp-content/uploads/sites/18/2022/10/pandas.png" width="70"> <img src="https://i0.wp.com/blogs.embarcadero.com/wp-content/uploads/2020/09/matplotlib.png?w=4541&ssl=1" width="80"> <img src="https://user-images.githubusercontent.com/67586773/106614255-1a400a80-6591-11eb-8e7a-cf272b26d8e5.png" width="50"> <img src="https://c.mql5.com/2/122/scipy__3.png" width="80">
 
 ## Итоговый вывод по проделанной работе
 
